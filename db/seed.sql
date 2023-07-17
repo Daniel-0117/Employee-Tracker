@@ -15,3 +15,13 @@ VALUES ("Legal Lead", 120000, 1),
        ("Doctor", 250000, 4),
        ("Nurse", 120000, 4);
 
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
+VALUES ("Mercer", "Frey", 1, 1),
+       ("Balgruff", "Greater", 2, 0),
+       ("Dagoth", "Ur", 3, 1),
+       ("Sanguinus", "Bloodangel", 4, 0),
+       ("Horus", "Lunawolf", 5, 1),
+       ("Guiliman", "Robute", 6, 0),
+       ("Lion", "Johnson", 7, 1),
+       ("Ferrus", "Manus", 8, 0),
+       ("Leman", "Russ", 9, 0);
