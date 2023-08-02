@@ -166,7 +166,7 @@ function updateEmployeeRole() {
 }
 
 
-
+//Function to present the user with the options
 function init() {
   inquirer.prompt(actions).then((answers) => {
     if (answers.selections === 'View all departments') {
@@ -193,10 +193,11 @@ function init() {
 
 
 
-// turn on connection to db and server
+
 // Default response for any other request (Not Found)
 app.use((req, res) => {
   res.status(404).end();
+  console.log('You are lost in the sauce!');
 });
 
 app.listen(PORT, () => {
