@@ -2,7 +2,7 @@
 
 Video Link: https://drive.google.com/file/d/143zf-znhPY4ZvSmgRXHTFirPj8PEoukE/view
 
-[Screen shot of Application](./imgs/Screenshot%202023-08-01%20223711.png)
+[ScreenShot of Application](./imgs/Screenshot%202023-08-01%20223711.png)
 
 ![Static Badge](https://img.shields.io/badge/MIT-license?label=license&labelColor=%2332CD30&color=%23A020F0&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
 
